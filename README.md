@@ -1,2 +1,2 @@
-# template
+# templates
 Frequently used templates
